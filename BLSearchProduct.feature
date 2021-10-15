@@ -1,5 +1,5 @@
 @BL
-Feature: Login
+Feature: Search Product
 
   @tag1
   Scenario: User should be able to search product on Bukalapak
